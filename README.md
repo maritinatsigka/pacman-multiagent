@@ -71,6 +71,6 @@ python pacman.py -p ExpectimaxAgent -a evalFn=better -l openClassic -a depth=2
 ---
 
 ## 📄 Notes
-- Project starter code and framework: UC Berkeley CS188 Pacman Projects
+- Project starter code and framework: [UC Berkeley CS188 Pacman Projects](https://inst.eecs.berkeley.edu/~cs188/fa23/projects/proj2/)
 - My implementation is focused only on the multi-agent search (Project 2) part.
 - Solutions respect the educational use policy of UC Berkeley.
